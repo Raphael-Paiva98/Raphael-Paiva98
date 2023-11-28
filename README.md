@@ -12,6 +12,6 @@
 <br>
 <br>
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raphael-Paiva98_icons=true&theme=transparent)
+[! [Raphael GitHub stats](https://github-readme-stats.vercel.app/api?username=Raphael-Paiva98)]_icons=true&theme=transparent)
 
 

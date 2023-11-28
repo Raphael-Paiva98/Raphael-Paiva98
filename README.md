@@ -10,7 +10,7 @@
 </a>
 <a href="https://github.com/Raphael-Paiva98/convoychat">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Raphael-Paiva98&show_icons=true&theme=tokyonight&layout=compact&langs_count=8&card_width=120" />
-   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
 </a>
   <br>
    <br>
@@ -18,8 +18,10 @@
 </div>
 <div style="display: inline_block">
 
+
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+     <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  </div>
 
  ##
